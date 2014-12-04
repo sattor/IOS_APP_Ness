@@ -16,11 +16,14 @@
 		B1101F221A20DF9E00BE81FB /* sello.png in Resources */ = {isa = PBXBuildFile; fileRef = B1101F211A20DF9E00BE81FB /* sello.png */; };
 		B1101F241A20E62100BE81FB /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B1101F231A20E62100BE81FB /* Logo.png */; };
 		EB3436A11A2B81B600EE3427 /* Detail_Grupo_View_Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = EB3436A01A2B81B600EE3427 /* Detail_Grupo_View_Controller.m */; };
-		EB3436A51A2BC3A400EE3427 /* Session.m in Sources */ = {isa = PBXBuildFile; fileRef = EB3436A41A2BC3A400EE3427 /* Session.m */; };
 		EB3436A91A2BC67400EE3427 /* Login_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB3436A81A2BC67400EE3427 /* Login_ViewController.m */; };
 		EB55E9FB1A2AD5F800A9F67C /* Grupos.m in Sources */ = {isa = PBXBuildFile; fileRef = EB55E9FA1A2AD5F800A9F67C /* Grupos.m */; };
 		EB55E9FE1A2AE91300A9F67C /* HomeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = EB55E9FD1A2AE91300A9F67C /* HomeModel.m */; };
 		EB55EA011A2AED5200A9F67C /* Grupos_VIew_Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = EB55EA001A2AED5200A9F67C /* Grupos_VIew_Controller.m */; };
+		EB57CB301A2CC0AE0065E98C /* PrincipalMenu_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB57CB2F1A2CC0AE0065E98C /* PrincipalMenu_ViewController.m */; };
+		EB57CB351A2CF4390065E98C /* Horarios.m in Sources */ = {isa = PBXBuildFile; fileRef = EB57CB341A2CF4390065E98C /* Horarios.m */; };
+		EB57CB381A2CF4970065E98C /* HomeModelH.m in Sources */ = {isa = PBXBuildFile; fileRef = EB57CB371A2CF4970065E98C /* HomeModelH.m */; };
+		EB57CB3B1A2CF6EA0065E98C /* Horarios_View_Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = EB57CB3A1A2CF6EA0065E98C /* Horarios_View_Controller.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,8 +52,6 @@
 		B1101F231A20E62100BE81FB /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo.png; sourceTree = "<group>"; };
 		EB34369F1A2B81B600EE3427 /* Detail_Grupo_View_Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Detail_Grupo_View_Controller.h; sourceTree = "<group>"; };
 		EB3436A01A2B81B600EE3427 /* Detail_Grupo_View_Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Detail_Grupo_View_Controller.m; sourceTree = "<group>"; };
-		EB3436A31A2BC3A400EE3427 /* Session.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Session.h; sourceTree = "<group>"; };
-		EB3436A41A2BC3A400EE3427 /* Session.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Session.m; sourceTree = "<group>"; };
 		EB3436A71A2BC67400EE3427 /* Login_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Login_ViewController.h; sourceTree = "<group>"; };
 		EB3436A81A2BC67400EE3427 /* Login_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Login_ViewController.m; sourceTree = "<group>"; };
 		EB55E9F91A2AD5F800A9F67C /* Grupos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Grupos.h; sourceTree = "<group>"; };
@@ -59,6 +60,14 @@
 		EB55E9FD1A2AE91300A9F67C /* HomeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeModel.m; sourceTree = "<group>"; };
 		EB55E9FF1A2AED5200A9F67C /* Grupos_VIew_Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Grupos_VIew_Controller.h; sourceTree = "<group>"; };
 		EB55EA001A2AED5200A9F67C /* Grupos_VIew_Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Grupos_VIew_Controller.m; sourceTree = "<group>"; };
+		EB57CB2E1A2CC0AE0065E98C /* PrincipalMenu_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrincipalMenu_ViewController.h; sourceTree = "<group>"; };
+		EB57CB2F1A2CC0AE0065E98C /* PrincipalMenu_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrincipalMenu_ViewController.m; sourceTree = "<group>"; };
+		EB57CB331A2CF4390065E98C /* Horarios.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Horarios.h; sourceTree = "<group>"; };
+		EB57CB341A2CF4390065E98C /* Horarios.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Horarios.m; sourceTree = "<group>"; };
+		EB57CB361A2CF4970065E98C /* HomeModelH.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeModelH.h; sourceTree = "<group>"; };
+		EB57CB371A2CF4970065E98C /* HomeModelH.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeModelH.m; sourceTree = "<group>"; };
+		EB57CB391A2CF6EA0065E98C /* Horarios_View_Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Horarios_View_Controller.h; sourceTree = "<group>"; };
+		EB57CB3A1A2CF6EA0065E98C /* Horarios_View_Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Horarios_View_Controller.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +110,6 @@
 			isa = PBXGroup;
 			children = (
 				EB3436A61A2BC64900EE3427 /* Login */,
-				EB3436A21A2BC38400EE3427 /* Global */,
 				EB55E9F51A2AD5B100A9F67C /* Clases_Grupos_View_Controller */,
 				B1101F211A20DF9E00BE81FB /* sello.png */,
 				B1101F231A20E62100BE81FB /* Logo.png */,
@@ -111,10 +119,6 @@
 				B1101F081A20DD8F00BE81FB /* Images.xcassets */,
 				B1101F0A1A20DD8F00BE81FB /* LaunchScreen.xib */,
 				B1101EFB1A20DD8F00BE81FB /* Supporting Files */,
-				EB55E9FF1A2AED5200A9F67C /* Grupos_VIew_Controller.h */,
-				EB55EA001A2AED5200A9F67C /* Grupos_VIew_Controller.m */,
-				EB34369F1A2B81B600EE3427 /* Detail_Grupo_View_Controller.h */,
-				EB3436A01A2B81B600EE3427 /* Detail_Grupo_View_Controller.m */,
 			);
 			path = "CONEBU Mobile App";
 			sourceTree = "<group>";
@@ -145,20 +149,13 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		EB3436A21A2BC38400EE3427 /* Global */ = {
-			isa = PBXGroup;
-			children = (
-				EB3436A31A2BC3A400EE3427 /* Session.h */,
-				EB3436A41A2BC3A400EE3427 /* Session.m */,
-			);
-			name = Global;
-			sourceTree = "<group>";
-		};
 		EB3436A61A2BC64900EE3427 /* Login */ = {
 			isa = PBXGroup;
 			children = (
 				EB3436A71A2BC67400EE3427 /* Login_ViewController.h */,
 				EB3436A81A2BC67400EE3427 /* Login_ViewController.m */,
+				EB57CB2E1A2CC0AE0065E98C /* PrincipalMenu_ViewController.h */,
+				EB57CB2F1A2CC0AE0065E98C /* PrincipalMenu_ViewController.m */,
 			);
 			name = Login;
 			sourceTree = "<group>";
@@ -166,12 +163,38 @@
 		EB55E9F51A2AD5B100A9F67C /* Clases_Grupos_View_Controller */ = {
 			isa = PBXGroup;
 			children = (
+				EB57CB321A2CF3E00065E98C /* Grupos Table View */,
+				EB57CB311A2CF3CC0065E98C /* Horarios */,
+			);
+			name = Clases_Grupos_View_Controller;
+			sourceTree = "<group>";
+		};
+		EB57CB311A2CF3CC0065E98C /* Horarios */ = {
+			isa = PBXGroup;
+			children = (
+				EB57CB331A2CF4390065E98C /* Horarios.h */,
+				EB57CB341A2CF4390065E98C /* Horarios.m */,
+				EB57CB361A2CF4970065E98C /* HomeModelH.h */,
+				EB57CB371A2CF4970065E98C /* HomeModelH.m */,
+				EB57CB391A2CF6EA0065E98C /* Horarios_View_Controller.h */,
+				EB57CB3A1A2CF6EA0065E98C /* Horarios_View_Controller.m */,
+			);
+			name = Horarios;
+			sourceTree = "<group>";
+		};
+		EB57CB321A2CF3E00065E98C /* Grupos Table View */ = {
+			isa = PBXGroup;
+			children = (
+				EB34369F1A2B81B600EE3427 /* Detail_Grupo_View_Controller.h */,
+				EB3436A01A2B81B600EE3427 /* Detail_Grupo_View_Controller.m */,
+				EB55E9FF1A2AED5200A9F67C /* Grupos_VIew_Controller.h */,
+				EB55EA001A2AED5200A9F67C /* Grupos_VIew_Controller.m */,
 				EB55E9F91A2AD5F800A9F67C /* Grupos.h */,
 				EB55E9FA1A2AD5F800A9F67C /* Grupos.m */,
 				EB55E9FC1A2AE91300A9F67C /* HomeModel.h */,
 				EB55E9FD1A2AE91300A9F67C /* HomeModel.m */,
 			);
-			name = Clases_Grupos_View_Controller;
+			name = "Grupos Table View";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -276,14 +299,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB57CB3B1A2CF6EA0065E98C /* Horarios_View_Controller.m in Sources */,
+				EB57CB301A2CC0AE0065E98C /* PrincipalMenu_ViewController.m in Sources */,
 				EB3436A91A2BC67400EE3427 /* Login_ViewController.m in Sources */,
+				EB57CB351A2CF4390065E98C /* Horarios.m in Sources */,
 				EB55E9FE1A2AE91300A9F67C /* HomeModel.m in Sources */,
 				B1101F011A20DD8F00BE81FB /* AppDelegate.m in Sources */,
+				EB57CB381A2CF4970065E98C /* HomeModelH.m in Sources */,
 				B1101EFE1A20DD8F00BE81FB /* main.m in Sources */,
 				EB55EA011A2AED5200A9F67C /* Grupos_VIew_Controller.m in Sources */,
 				EB55E9FB1A2AD5F800A9F67C /* Grupos.m in Sources */,
 				EB3436A11A2B81B600EE3427 /* Detail_Grupo_View_Controller.m in Sources */,
-				EB3436A51A2BC3A400EE3427 /* Session.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
